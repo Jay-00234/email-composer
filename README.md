@@ -2,6 +2,8 @@
 
 一个跑在 Claude Artifact 里的邮件起草小工具。贴入原邮件 + 用中文写清意图，一键生成英文/中文邮件，支持多轮修改和版本回滚。
 
+<img width="435" height="694" alt="截屏2026-04-24 20 17 55" src="https://github.com/user-attachments/assets/f37f63b3-f5eb-4d82-93d0-cd2616584ac1" />
+
 ## 它能做什么
 
 - 四种场景：回复邮件、写新邮件、跟进催促、委婉拒绝
